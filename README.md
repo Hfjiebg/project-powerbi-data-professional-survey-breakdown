@@ -1,2 +1,34 @@
-# alex-the-analyst-full-Power-BI-guided-project
-Following a tutorial (Full Power BI Guided Project | Microsoft Power BI for Beginners) by Alex the Analyst
+# Power BI Dashboard Project
+This repository contains a Power BI dashboard created following the tutorial from the YouTube video by Alex The Analyst. The project showcases key features and functionalities of Power BI for visualizing and analyzing data effectively.
+
+## Project Overview
+The goal of this project is to:
+
+- Understand Power BI's capabilities for data transformation and visualization.
+- Learn how to build interactive dashboards.
+- Practice creating compelling and informative data insights.
+Features
+
+* Data source: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
+
+* Visualizations include:
+- bar charts
+- Donut charts
+- Cards
+- slicers
+- Gauges
+- Buttons with links
+
+* Interactive elements for data filtering and segmentation.
+
+* Insights include :
+  - the countries of the survey takers,
+  - the average salary by job titles,
+  - Satisfaction with salary,
+  - Satisfaction with work life balance,
+  - difficulty to break into the data field,
+  - fabourite programming languages.
+
+Tutorial Video: https://www.youtube.com/watch?v=pixlHHe_lNQ
+
+Contributions are welcome! If you have suggestions for improving the dashboard or ideas for new features, feel free to open an issue or submit a pull request.
