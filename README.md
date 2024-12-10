@@ -12,13 +12,13 @@ Features
 * Data source: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
 
 * Visualizations include:
-- bar charts
-- Donut charts
-- Cards
-- slicers
-- Gauges
-- Buttons with links
-- Buttons to take you through the pages
+ - bar charts
+ - Donut charts
+ - Cards
+ - Slicer
+ - Gauge
+ - Buttons with links
+ - Buttons to take you through the pages
 
 * Interactive elements for data filtering and segmentation.
 
