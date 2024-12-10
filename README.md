@@ -18,6 +18,7 @@ Features
 - slicers
 - Gauges
 - Buttons with links
+- Buttons to take you through the pages
 
 * Interactive elements for data filtering and segmentation.
 
