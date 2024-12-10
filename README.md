@@ -1,5 +1,5 @@
 # Power BI Dashboard Project : Data professional survey breakdown
-This repository contains a Power BI dashboard created following the tutorial (with some changes regarding insights) from the YouTube video by Alex The Analyst. The project showcases key features and functionalities of Power BI for visualizing and analyzing data effectively.
+This repository contains a Power BI dashboard created following the tutorial from the YouTube video by Alex The Analyst (with some changes regarding insights). The project showcases key features and functionalities of Power BI for visualizing and analyzing data effectively.
 
 ## Project Overview
 The goal of this project is to:
