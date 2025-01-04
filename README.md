@@ -15,7 +15,6 @@ Features
  - Bar charts
  - Donut charts
  - Cards
- - Slicers
  - Gauges
  - Buttons
 
