@@ -29,5 +29,3 @@ Features
   - fabourite programming languages.
 
 Tutorial Video: https://www.youtube.com/watch?v=pixlHHe_lNQ
-
-Contributions are welcome! If you have suggestions for improving the dashboard or ideas for new features, feel free to open an issue or submit a pull request.
